@@ -11,7 +11,7 @@ const ProductNavbar = () => {
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="/">AddProduct</a>
+        <a class="nav-link active" aria-current="page" href="/Add">AddProduct</a>
         <a class="nav-link" href="/ViewAll">View All Products</a>
       </div>
     </div>
